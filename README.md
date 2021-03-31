@@ -1,4 +1,4 @@
-# _JWT authentication with nestjs_
+# _JWT authentication with nestjs_ BY JEFF
 ## Installation
 
 You need [Node.js](https://nodejs.org/) v10+ to run.
